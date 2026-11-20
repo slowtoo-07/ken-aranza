@@ -20,8 +20,7 @@ export const profile = {
     }
   ],
   "summary": [
-    "I am an Information Technology student at STI College Legazpi. I built the Basic Education Resources and Inputs Monitoring System for the Department of Education as my capstone project.",
-    "I am applying for the Web Developer role at PANDR Outsourcing, where I can build reliable, user-friendly web applications and contribute to the team’s success."
+    "I am an Information Technology student at STI College Legazpi. I built the Basic Education Resources and Inputs Monitoring System for the Department of Education as my capstone project."
   ],
   "experience": [
     {
